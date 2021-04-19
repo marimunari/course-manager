@@ -8,6 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Description
 
+<img src="https://github.com/marimunari/course-manager/blob/master/src/course-manager.gif">
 This project was carried out during the <a href="https://digitalinnovation.one/" target="_blank">Digital Innovation One</a> course <a href="https://web.digitalinnovation.one/course/introducao-ao-angular-8/learning/2d97a376-c570-45e3-9f32-f756f98804ab?back=/track/avanade-angular-developer&bootcamp_id=60feba98-5232-4e30-9484-a7d1f82a8b34" target="_blank">"Introduction to Angular 8"</a>. It is a simple course manager, with Search, Editing and Deletion operations, using Angular for the front-end and Node.js for backend.
 
 ## Development server
